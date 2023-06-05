@@ -1,3 +1,3 @@
-1. Исполнил команду javac <img src="../../../../../../var/folders/ny/qvc46jx1605c2yl9d6s7zxpc0000gn/T/TemporaryItems/NSIRD_screencaptureui_TBC7SI/Снимок экрана 2023-06-05 в 11.00.20.png"/>
-2. результат <img src="../../../../../../var/folders/ny/qvc46jx1605c2yl9d6s7zxpc0000gn/T/TemporaryItems/NSIRD_screencaptureui_NCZ2kO/Снимок экрана 2023-06-05 в 11.08.23.png"/>
-3. команда javadoc <img src="../../../../../../var/folders/ny/qvc46jx1605c2yl9d6s7zxpc0000gn/T/TemporaryItems/NSIRD_screencaptureui_EoJFn5/Снимок экрана 2023-06-05 в 11.11.56.png"/>
+1. Исполнил команду javac ![](../../../Снимок экрана 2023-06-05 в 11.32.13.png)
+2. результат ![](../../../Снимок экрана 2023-06-05 в 11.30.49.png)
+3. команда javadoc ![](../../../Снимок экрана 2023-06-05 в 11.29.46.png)
