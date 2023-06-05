@@ -1,0 +1,3 @@
+1. Исполнил команду javac ![](../../../../../../var/folders/ny/qvc46jx1605c2yl9d6s7zxpc0000gn/T/TemporaryItems/NSIRD_screencaptureui_TBC7SI/Снимок экрана 2023-06-05 в 11.00.20.png)
+2. результат ![](../../../../../../var/folders/ny/qvc46jx1605c2yl9d6s7zxpc0000gn/T/TemporaryItems/NSIRD_screencaptureui_NCZ2kO/Снимок экрана 2023-06-05 в 11.08.23.png)
+3. команда javadoc ![](../../../../../../var/folders/ny/qvc46jx1605c2yl9d6s7zxpc0000gn/T/TemporaryItems/NSIRD_screencaptureui_EoJFn5/Снимок экрана 2023-06-05 в 11.11.56.png)
